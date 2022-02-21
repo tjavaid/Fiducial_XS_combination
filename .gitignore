@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*.log
+*.pyc
+*~
+copy_from_combination.sh

@@ -1,6 +1,13 @@
 # Fiducial_XS_combination
 # Instructions to run the BBBF differential xs code for CMSSW_10_X releases
 
+For the detailed instructions please refer to the wiki page:
+
+```
+https://github.com/tjavaid/Fiducial_XS_combination/wiki
+```
+
+
 ## 1. CMSSW and cobmine release setup
 
 Taken from Combine official instructions: https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/
